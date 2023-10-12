@@ -18,10 +18,10 @@ Explore a meticulously architected user management solution, thoughtfully struct
 
 
 ## Key Functionality
-Seamlessly add new users, complete with their name, email, password, and phone number.
-Effortlessly remove existing users.
-Precisely update user details, encompassing name, email, password, and phone number.
-Gain insight into all user data through a well-organized, information-rich table display.
+- Seamlessly add new users, complete with their name, email, password, and phone number.
+- Effortlessly remove existing users.
+- Precisely update user details, encompassing name, email, password, and phone number.
+- Gain insight into all user data through a well-organized, information-rich table display.
 
 ## Prerequisites
 
